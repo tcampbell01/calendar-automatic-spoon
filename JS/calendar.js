@@ -1,20 +1,34 @@
 $(document).ready(function () {
     $(".saveBtn").on("click", function () {
        
-        var text = document.querySelector(".description").value;
+        $(".saveBtn").on("click", function () {
+            // Get nearby values of the description in JQuery
+            var text = $(this).siblings(".description").val();
+            var time = $(this).parent().attr('id');
 
-        var time= document.querySelector(".hour").JSON.stringify;
+            window.localStorage.setItem("appointment",text);
+            window.localStorage.setItem("hour", time);
+
+            
+            console.log(text);
+            console.log(time);
+            window.localStorage.getItem("appointment");
+            window.localStorage.getItem("hour");
+    
+            // Save text in local storage
+         
+      
+
         
-        localStorage.setItem (text,time);
-        console.log(text,time);
-    } 
-    ) 
+       
 
-    //function retrieveStorage () {
-    //localStorage.getItem (text,time)
-    //}
-    //console.log(text,time),
-    //retrieveStorage();
+      //const returnedData=localStorage.getItem(text,time);
+            
+         } )
 
-
-} )
+         
+        
+    
+    }  ) } )
+ 
+    $('').html(window.localStorage.getItem('content'));
