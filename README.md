@@ -79,7 +79,8 @@ WHEN I refresh the page!
 
 THEN the saved events persist!
 
-[work day scheduler](https://user-images.githubusercontent.com/93332105/147273472-00c998bb-df8f-458e-b9b6-a54cde27eb52.jpg)
+
 
 ```
 
+![Work day scheduler](https://user-images.githubusercontent.com/93332105/153028000-142a44be-84db-4b44-9095-665a04f04b7e.jpg)
