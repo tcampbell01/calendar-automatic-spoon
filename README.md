@@ -1,9 +1,57 @@
-A calendar application that saves events for each hour of the day using localStorage. Colors indicate past, present, and future hours. 
+
+
+# Daily Calendar
+
+
+
+  ## Badges
+
+
+  ## Table of Contents
+
+  * [License](#license)
+
+  * [Description](#description)
+
+  * [Installation](#installation)
+
+  * [Usage](#usage)
+
+  * [How to Contribute](#how-to-contribute)
+
+  * [Tests](#tests)
+
+  * [Questions?](#questions)
+
+  ## License
+ No license for this project
+
+  ## Description
+ Calendar application that saves events for each hour of the day using localStorage. Colors indicate past, present, and future hours. 
 
 Application uses moment.js and jquery. 
 
 
+  ## Installation
 
+  This application does not require installation.
+
+  ## Usage
+
+  User may enter calendar entries, which will be stored to localStorage. Colors indicate past, present, and future hours. 
+
+  ## How to Contribute
+  
+ No contributing at this time. 
+
+  ## Tests
+ No tests needed.
+
+  ## Questions?
+
+  ### Reach me here: 
+  [https://github.com/tcampbell01] (https://github.com/tcampbell01)  
+  teresa.j.campbell@icloud.com
 
 ## User Story
 
