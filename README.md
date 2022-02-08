@@ -2,7 +2,7 @@
 
 # Daily Calendar
 
-
+Link to deployed app: https://tcampbell01.github.io/daily-calendar/
 
   ## Badges
 
